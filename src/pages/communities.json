@@ -2,11 +2,11 @@
   {
     "name": "Cat",
     "description": "Cat fans",
-    "avatar": "123"
+    "avatar": "123.jpg"
   },
   {
     "name": "Dog",
     "description": "Dog fans",
-    "avatar": "123"
+    "avatar": "1234.jpg"
   }
 ]
